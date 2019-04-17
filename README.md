@@ -1,3 +1,3 @@
 # GoNewsSite-Helm
 
-Run: "helm install ./newsapp_chart/""
+Run: helm install ./newsapp_chart/
